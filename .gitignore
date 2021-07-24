@@ -154,3 +154,4 @@ cython_debug/
 
 
 ignored_files/
+.idea
